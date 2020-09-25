@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color: royalblue;
 }
 
 div h1{
@@ -12,7 +12,7 @@ div h1{
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 10px 10px 20px black;
+    box-shadow: 10px 10px 20px  red;
 }
 
 .posterimg{
